@@ -1,0 +1,443 @@
+Tue,16 Jun 2020 15:07:02 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:634
+=====> start driver model test
+Tue,16 Jun 2020 15:07:06 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:643
+=====> start collect icu log
+Tue,16 Jun 2020 15:08:24 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:634
+=====> start driver model test
+Tue,16 Jun 2020 15:08:27 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:643
+=====> start collect icu log
+Tue,16 Jun 2020 15:11:55 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:634
+=====> start driver model test
+Tue,16 Jun 2020 15:12:00 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:643
+=====> start collect icu log
+Tue,16 Jun 2020 15:38:18 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:636
+=====> start driver model test
+Tue,16 Jun 2020 15:38:22 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:645
+=====> start collect icu log
+Tue,16 Jun 2020 15:39:10 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:636
+=====> start driver model test
+Tue,16 Jun 2020 15:39:15 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:645
+=====> start collect icu log
+Tue,16 Jun 2020 15:39:40 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:636
+=====> start driver model test
+Tue,16 Jun 2020 15:39:44 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model Line:645
+=====> start collect icu log
+Tue,16 Jun 2020 15:41:29 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_ssh Line:534
+=====> start driver model test
+Tue,16 Jun 2020 15:41:53 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_ssh Line:544
+=====> set ip address for ping_object
+Tue,16 Jun 2020 15:46:11 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_ssh Line:534
+=====> start driver model test
+Tue,16 Jun 2020 15:46:34 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_ssh Line:544
+=====> set ip address for ping_object
+Tue,16 Jun 2020 15:46:40 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:47:01 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:48:21 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:48:24 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:48:37 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:48:40 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:48:54 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:48:57 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:49:12 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:49:14 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:49:29 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:49:32 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:49:47 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:49:49 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:04 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:07 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:20 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:23 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:36 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:38 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:55 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:50:55 [DEBUG] Data: bytearray(b'\x1b\x00\xa0\x04\x00\x00\x00\x00')
+Tue,16 Jun 2020 15:50:58 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:46 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:46 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:46 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:46 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:47 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:47 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:47 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:47 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:47 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:48 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:48 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:48 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:48 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:49 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:49 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:49 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:49 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:50 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:50 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:50 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:50 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:51 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:51 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:51 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:51 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:51 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:52 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:52 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:52 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:52 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:53 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:53 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:53 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:53 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:54 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:54 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:54 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:54 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:54 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:55 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:55 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:55 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:55 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:56 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:56 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:56 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:56 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:56 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:57 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:57 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:57 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:57 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:58 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:58 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:58 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:58 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:59 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:59 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:59 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:59 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:51:59 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:00 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:00 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:00 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:00 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:01 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:01 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:01 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:01 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:02 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:02 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:02 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:02 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:02 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:03 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:03 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:03 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:03 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:04 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:04 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:04 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:04 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:05 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:05 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:07 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:07 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:08 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:08 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:08 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:08 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:09 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:09 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:09 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:09 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:10 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:10 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:10 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:10 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:10 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:11 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:11 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:11 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:11 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:12 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:12 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:12 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:12 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:13 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:13 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:13 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:13 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:13 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:14 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:14 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:14 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:14 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:15 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:15 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:15 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:15 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:16 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:16 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:16 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:16 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:16 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:17 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:17 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:17 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:17 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:18 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:18 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:18 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:18 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:19 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:19 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:19 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:19 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:19 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:20 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:20 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:20 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:20 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:21 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:21 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:21 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:21 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:22 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:22 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:22 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:22 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:23 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:23 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:23 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:23 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:23 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:24 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:24 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:24 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:24 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:25 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:25 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:25 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:25 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:27 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:52:30 [DEBUG] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:excute_command Line:66
+=====> excute command output is :
+Tue,16 Jun 2020 15:58:35 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:629
+=====> start driver model test
+Tue,16 Jun 2020 15:58:39 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:638
+=====> start collect icu log
+Tue,16 Jun 2020 15:58:39 [DEBUG] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:24
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & successfully
+Tue,16 Jun 2020 17:17:52 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:628
+=====> start driver model test
+Tue,16 Jun 2020 17:17:57 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:637
+=====> start collect icu log
+Tue,16 Jun 2020 17:17:57 [DEBUG] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:24
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & successfully
+Tue,16 Jun 2020 17:26:21 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:628
+=====> start driver model test
+Tue,16 Jun 2020 17:26:26 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:637
+=====> start collect icu log
+Tue,16 Jun 2020 17:26:26 [DEBUG] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:25
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & successfully
+Tue,16 Jun 2020 17:27:12 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:628
+=====> start driver model test
+Tue,16 Jun 2020 17:27:17 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:637
+=====> start collect icu log
+Tue,16 Jun 2020 17:27:17 [DEBUG] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:25
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & successfully
+Tue,16 Jun 2020 17:27:50 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:628
+=====> start driver model test
+Tue,16 Jun 2020 17:27:53 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:637
+=====> start collect icu log
+Tue,16 Jun 2020 17:27:53 [DEBUG] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:25
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & successfully
+Tue,16 Jun 2020 17:28:56 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:628
+=====> start driver model test
+Tue,16 Jun 2020 17:29:01 [DEBUG] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_adb Line:637
+=====> start collect icu log
+Tue,16 Jun 2020 17:29:04 [DEBUG] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:25
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & successfully

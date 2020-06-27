@@ -1,0 +1,58 @@
+Tue,16 Jun 2020 15:07:06 [ERROR] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:26
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & failed
+Tue,16 Jun 2020 15:08:27 [ERROR] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:26
+=====> execute command :nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log & failed
+Tue,16 Jun 2020 15:12:00 [ERROR] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:30
+=====> Command 'adb -s 00000000d388f335 shell  "telnet.sh "nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log &""' returned non-zero exit status 1.
+Tue,16 Jun 2020 15:35:47 [ERROR] File:C:\ICU_Stress\venv\Test_Case_ICU_Stress\Test_Driver_Model.py Function:test Line:26
+=====> test_driver_model() missing 1 required positional argument: 'module_name'
+Tue,16 Jun 2020 15:38:22 [ERROR] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:30
+=====> Command 'adb -s None shell  "telnet.sh "nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log &""' returned non-zero exit status 1.
+Tue,16 Jun 2020 15:39:15 [ERROR] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:30
+=====> Command 'adb -s None shell  "telnet.sh "nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log &""' returned non-zero exit status 1.
+Tue,16 Jun 2020 15:39:44 [ERROR] File:C:\ICU_Stress\venv\Common\Icu_Common_Adb.py Function:execute_command_to_qnx_system Line:30
+=====> Command 'adb -s None shell  "telnet.sh "nohup slog2info -w -b cluster_service > /fs/usb0/cluster_service.log &""' returned non-zero exit status 1.
+Tue,16 Jun 2020 15:42:07 [ERROR] File:C:\ICU_Stress\venv\Common\SSH_Connection.py Function:ping_qnx_system Line:145
+=====> qnx system init failed
+Tue,16 Jun 2020 15:42:07 [ERROR] File:C:\ICU_Stress\venv\Common\ICU_Common.py Function:test_driver_model_ssh Line:607
+=====> can not ping network
+Tue,16 Jun 2020 15:48:27 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:48:27 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:48:43 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:48:43 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:49:01 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:49:01 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:49:18 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:49:18 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:49:36 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:49:36 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:49:53 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:49:53 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:50:09 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:50:09 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:50:25 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:50:25 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:50:42 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:50:42 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
+Tue,16 Jun 2020 15:51:01 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:125
+=====> i :25 ,j : 1352
+Tue,16 Jun 2020 15:51:01 [ERROR] File:C:\ICU_Stress\venv\Common\Picture_Compare.py Function:compare_picture Line:136
+=====> the picture is different,picture compare failed
